@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/certs">
+    <file alias="ok-roots.pem">certs/ok-roots.pem</file>
+</qresource>
+</RCC>

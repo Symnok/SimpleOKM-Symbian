@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/translations">
+    <file alias="simpleokm_ru.qm">translations/simpleokm_ru.qm</file>
+    <file alias="simpleokm_uk.qm">translations/simpleokm_uk.qm</file>
+</qresource>
+</RCC>

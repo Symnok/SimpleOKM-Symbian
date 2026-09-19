@@ -1,0 +1,33 @@
+# real credentials - never commit
+credentials.cfg
+creds.txt
+*.token
+
+# build output
+build/
+build-*/
+*.o
+*.obj
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*.sis
+*.sisx
+*_installer.sis
+*_template.pkg
+*_installer.pkg
+*_stub.pkg
+*_reg.rss
+*.rss
+*.loc
+*.mif
+*.mmp
+bld.inf
+*.pri.PREV
+tmp/
+release/
+debug/
+.make.cache
+SimpleOKM_installer_unsigned.sis
+SimpleOKM_unsigned.sis
